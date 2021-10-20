@@ -3,19 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-first_name: ShinYoung
-=======
 first_name: Shin Young
->>>>>>> Stashed changes
-=======
-first_name: Shin Young
->>>>>>> Stashed changes
-=======
-first_name: Shin Young
->>>>>>> Stashed changes
 middle_name:
 last_name: Park
 email: parksy@uwm.edu
@@ -29,19 +17,7 @@ footer_text: >
 icon: 🔥 # the emoji used as the favicon
 url: https://parksy0810.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 last_updated: true # set to true if you want to display last updated in the footer
-=======
-last_updated: false # set to true if you want to display last updated in the footer
->>>>>>> Stashed changes
-=======
-last_updated: false # set to true if you want to display last updated in the footer
->>>>>>> Stashed changes
-=======
-last_updated: false # set to true if you want to display last updated in the footer
->>>>>>> Stashed changes
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -182,8 +158,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Park
+  first_name: [Shin Young]
 
   style: apa
   locale: en
