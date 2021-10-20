@@ -5,7 +5,11 @@
 title: blank # the website title (if blank, full name will be used instead)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 first_name: ShinYoung
+=======
+first_name: Shin Young
+>>>>>>> Stashed changes
 =======
 first_name: Shin Young
 >>>>>>> Stashed changes
@@ -27,7 +31,11 @@ url: https://parksy0810.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 last_updated: true # set to true if you want to display last updated in the footer
+=======
+last_updated: false # set to true if you want to display last updated in the footer
+>>>>>>> Stashed changes
 =======
 last_updated: false # set to true if you want to display last updated in the footer
 >>>>>>> Stashed changes
